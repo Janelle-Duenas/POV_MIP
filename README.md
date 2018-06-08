@@ -10,4 +10,3 @@ For a more detail descriptin of this project please see the following documents
 
 AIAA Confrence paper :
 
-Master's Thesis:https://cloudfront.escholarship.org/dist/prd/content/qt8sq5v6km/qt8sq5v6km.pdf
