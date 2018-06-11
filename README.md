@@ -9,7 +9,7 @@ The PCB Eagle files folder contains the schematic/board files.
 The Code folder contains C files that use TI-RTOS.
 
 
-For a more detail descriptin of this project please see the following document
+For a more detail description of this project please see the following document
 
 AIAA Confrence paper : link TBD
 
