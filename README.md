@@ -2,7 +2,7 @@
 This project was developed by the UCSD Coordinated Robotics Laboratory
 
 
-These folders contain all the filess for the educational POV Mechanism that is mounted on the MIP.
+These folders contain all the files for the educational POV Mechanism that is mounted on the MIP.
 The SolidWorks files folder is separated into plastic parts, eletromechanical parts and hardware.
 Please download all these contents as displayed on the repository to retain the parts references for the main assembly.
 The PCB Eagle files folder contains the schematic/board files.
